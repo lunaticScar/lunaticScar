@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shreshth 👋
 
-<!--
-**lunaticScar/lunaticScar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 B-Tech CSE student at VIT Bhopal
+- 💻 Interested in Machine Learning, Data Science, and Systems
 
-Here are some ideas to get you started:
+## 🧠 Currently Learning
+- Data Structures & Algorithms
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ Tech Stack
+- Languages: C++, Python, Java
+- Web: Fast API, Flask, HTML, CSS, Bootstrap
+- Tools: Git, Supabase,
+
+## 📂 Projects
+- 🔹 QuickFeed – QR-based feedback system
+- 🔹 MCP-AI Tool
+- 🔹 ML based prediction systems
+
+## 📫 Connect with Me
+- LinkedIn: [Link](https://www.linkedin.com/in/shreshth-awasthi-633a03292/)
+
