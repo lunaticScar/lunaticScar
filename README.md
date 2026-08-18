@@ -1,3 +1,5 @@
-<img src="https://github.com" alt="GitHub Contribution Snake" width="100%">
-
+<img
+  src="https://raw.githubusercontent.com/lunaticscar/lunaticscar/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
 
