@@ -1,4 +1,5 @@
 ### My Contribution Snake 🐍
 
-![GitHub Contribution Snake](https://githubusercontent.com)
+<img src="https://github.com" alt="GitHub Contribution Snake" width="100%">
+
 
